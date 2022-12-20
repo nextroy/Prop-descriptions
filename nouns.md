@@ -90,12 +90,13 @@ We will be coordinating the comms and logistics through out the whole process al
 
 **Team at Atrium**
 ![](https://europe1.discourse-cdn.com/standard21/uploads/nouns/optimized/2X/9/9687218ba0fd098bac4f63262303f4372d6943b2_2_1380x506.jpeg)
-Supriyo - Founder | Atrium.art
-Anaroth - Head of Community
-Bri Ferraro - Artist and Collector Relations
-Lasharna - Head of Marketing
+* Supriyo - Founder | Atrium.art
+* Anaroth - Head of Community
+* Bri Ferraro - Artist and Collector Relations
+* Lasharna - Head of Marketing
 
 **The Future**
+
 After the first nouns story, based on the reception of the content launch and social signals, Atrium intends to come back with a larger proposal to fund n (undecided number) number of new original nouns Stories.
 
 This will be Atrium’s take on creating an expanding anthology series centered around nounish lore where different creators from the Atrium ecosystem come together to build new characters with their backstories, lore and more.
