@@ -54,6 +54,7 @@ We would love to have at least one nounder to engage in conversation so that the
 * The workflow starts with defining the script and dialogs (if any) for the story. This involves defining shot by shot verbatim descriptions of what is happening on screen. A good story is a great script in the first step.
 * After the script is done, we start to look for Voice actors who will help narrate / engage in dialog based on the script. If the script doesn’t have any dialogs and is mostly visually expressive we skip this step.
 * Now the fun part begins where you start to model the characters, the environment, the objects in the scene. Rigging a model is technically intensive process and better rigged models are more equipped for better emotions during a scene (more fluid and organic movements)
+
 ![](https://europe1.discourse-cdn.com/standard21/uploads/nouns/optimized/2X/e/e4408f0a1790f89fa248ea6aa9d233881580b665_2_522x518.jpeg)
 * Once you have the 3d assets ready - you start the process of Look-Dev. Look development in CG means you start to give definition to the model through textures, lighting, colours etc. They start to come to life.
 * Animatic essentially lets you block out part by part of the story sequence with actual scene setup (the animation is not smooth and done yet but essentially simulates the storyboard).
@@ -66,6 +67,7 @@ We would love to have at least one nounder to engage in conversation so that the
 We will be utilising the Story’s reach in terms of reshares / likes / social engagement as metrics for success.
 
 **Ask / Cost**
+
 All inclusive production cost is proposed to be 20 ETH. (Transferred to the Atrium Multi-sig upon execution)
 
 Things covered included
